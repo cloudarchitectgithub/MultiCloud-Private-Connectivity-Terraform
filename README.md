@@ -128,7 +128,7 @@ To successfully execute this project, several prerequisites need to be in place:
    - Unzip the downloaded file and navigate to the newly created directory using the command cd hands-on-tcb-bmc-gcp/.
 
 <p align="center">
-<img src="https://i.imgur.com/GWznXGI.png" height="80%" width="80%" alt="Pic"/>
+<img src="https://i.imgur.com/t8fF791.png" height="80%" width="80%" alt="Pic"/>
 <br />
 <br />
 
@@ -486,7 +486,7 @@ terraform apply
     - Click on SSH under the "Connect" column. This will open a new SSH session in a browser window.
 
 <p align="center">
-<img src="https://i.imgur.com/epRTEc5.png" height="80%" width="80%" alt="Pic"/>
+<img src="https://i.imgur.com/qLbtbRA.png" height="80%" width="80%" alt="Pic"/>
 <br />
 <br />
 
